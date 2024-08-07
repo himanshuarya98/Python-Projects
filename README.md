@@ -17,7 +17,7 @@ This project is a simple banking system implemented in Python. It allows users t
 
 ### Defining The Banking Class:
 
-<img width="612" alt="Screenshot 2024-08-07 at 20 05 59" src="https://github.com/user-attachments/assets/61dd53eb-25e6-493d-8790-73e343443e12">
+<img width="691" alt="Screenshot 2024-08-07 at 20 05 59" src="https://github.com/user-attachments/assets/61dd53eb-25e6-493d-8790-73e343443e12">
 
 #### Key Points - 
 1. We created a Banking Class
@@ -65,7 +65,7 @@ This project is a simple banking system implemented in Python. It allows users t
 
 ### Check Method
 
-<img width="678" alt="Screenshot 2024-08-07 at 20 38 07" src="https://github.com/user-attachments/assets/8678a1a4-b009-4e8d-be82-e09865ecf500">
+<img width="691" alt="Screenshot 2024-08-07 at 20 38 07" src="https://github.com/user-attachments/assets/8678a1a4-b009-4e8d-be82-e09865ecf500">
 
 #### Key Points - 
 1. Asks for the account number to check the details.
