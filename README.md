@@ -3,6 +3,8 @@
 ## About Project
 This project is a simple banking system implemented in Python. It allows users to create accounts, deposit money, withdraw money, and check account details. The data is managed using a dictionary. 
 
+**Note: Run my Python script to check out my project.**
+
 ## Project Structure
 1. Defining the Banking Class
 2. Initialization (__init__ method)
